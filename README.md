@@ -2,4 +2,6 @@
 
 ![](https://www.codewars.com/users/egor7orlov/badges/small)
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,mongodb,mysql,postgres,docker,linux&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,nestjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,linux)](https://skillicons.dev)
