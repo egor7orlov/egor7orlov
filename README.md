@@ -14,7 +14,7 @@
 
 **Other:**
 
-[![My Skills](https://skillicons.dev/icons?i=docker,linux)](https://skillicons.dev)*
+[![My Skills](https://skillicons.dev/icons?i=docker,linux)](https://skillicons.dev)
 
 
 **Learning:**
