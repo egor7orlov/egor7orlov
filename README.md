@@ -2,7 +2,7 @@
 
 ![](https://www.codewars.com/users/egor7orlov/badges/small)
 
-**Languages/Frameworks/Libraries:**
+**Languages / Frameworks / Libraries:**
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,nestjs)](https://skillicons.dev)
 
