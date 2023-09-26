@@ -2,21 +2,10 @@
 
 ![](https://www.codewars.com/users/egor7orlov/badges/small)
 
-**Languages / Frameworks / Libraries:**
+**I use:**
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,nestjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,mongodb,mysql,postgres,docker,linux&perline=4)](https://skillicons.dev)
 
+**I learn:**
 
-**Databases:**
-
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres)](https://skillicons.dev)
-
-
-**Other:**
-
-[![My Skills](https://skillicons.dev/icons?i=docker,linux)](https://skillicons.dev)
-
-
-**Learning:**
-
-[![My Skills](https://skillicons.dev/icons?i=rust,go,kotlin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,go&perline=4)](https://skillicons.dev)
