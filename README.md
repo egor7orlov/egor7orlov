@@ -4,4 +4,4 @@
 
 **Technologies I use:**
 
-[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,nestjs,postgres,mongodb,redis,docker,linux,aws&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,postgres,mongodb,redis,docker,linux,aws&perline=3)](https://skillicons.dev)
