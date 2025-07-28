@@ -2,6 +2,6 @@
 
 ![](https://www.codewars.com/users/egor7orlov/badges/small)
 
-**Technologies I use:**
+**Tech stack:**
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,postgres,mongodb,docker,linux,aws&perline=3)](https://skillicons.dev)
+[![Tech stack](https://skillicons.dev/icons?i=ts,js,nodejs,postgres,mongodb,docker,linux,aws&perline=3)](https://skillicons.dev)
